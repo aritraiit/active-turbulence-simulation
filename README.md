@@ -50,7 +50,8 @@ Below is the side-by-side presentation showcasing the evolved fluid field animat
   <tr>
     <td align="center" width="50%">
       <p><b>Active Turbulence Simulation (Vorticity Contour Map)</b></p>
-      <video src="active.mp4" width="100%" controls autoplay loop muted></video>
+      <a href="activevideo.gif"><img src="activevideo.gif" width="100%" alt="Active turbulence animation"></a>
+      <p><em>Click the animation to view the full GIF.</em></p>
     </td>
     <td align="center" width="50%">
       <p><b>Kinetic Energy Spectrum</b></p>
